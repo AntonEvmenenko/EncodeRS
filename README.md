@@ -25,3 +25,6 @@ Building a closed-loop stepper system or a FOC (Field Oriented Control) setup? T
 - [ ] Enclosure design
 - [ ] Firmware development
 - [ ] Testing on a real motor under heavy load
+
+## Acknowledgments
+A big shoutout to [**dVNaNt**](https://github.com/dVNaNt) for coming up with the perfect name for this project!
