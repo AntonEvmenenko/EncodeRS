@@ -1,0 +1,247 @@
+(footprint "LED_1206_3216Metric_ReverseMount_Hole2.1mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "LED SMD 1206 (3216 Metric), reverse mount, square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
+	(tags "diode reverse")
+	(property "Reference" "D2"
+		(at 3.5052 -0.254 0)
+		(layer "F.SilkS")
+		(uuid "0f7008ac-7c40-424a-9d54-4768d03f919c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "LED"
+		(at 0 2.145 0)
+		(layer "F.Fab")
+		(uuid "5ae1692c-a04f-43c1-8831-83b2fed92e5b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c78c20b5-597c-4883-b989-90106c22803a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Light emitting diode"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97aeb0a1-073e-4c9d-a81b-34b0d05d1fb0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Sim.Pins" "1=K 2=A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8feceaec-c437-438a-a407-9d9f978961d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "LCSC Part Number" "C19171367"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "10bd8bb7-8cf7-49d9-ada0-7157c6efcd5c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.3622 -1.0922)
+		(end -2.3622 1.0922)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "dadb7436-465b-4543-b952-b12f76365b62")
+	)
+	(fp_line
+		(start -2.3622 1.0922)
+		(end -1.1948 1.0922)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "404f8ae5-4940-463a-a432-4f324581f723")
+	)
+	(fp_line
+		(start -1.1948 -1.0922)
+		(end -2.3622 -1.0922)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7c0a165d-71ac-4856-8317-714daf6ea3b4")
+	)
+	(fp_line
+		(start -2.3622 -1.0922)
+		(end 2.3622 -1.0922)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "0a1b468b-4ef4-47d2-b7cb-bb31ef402c40")
+	)
+	(fp_line
+		(start -2.3622 1.0922)
+		(end -2.3622 -1.0922)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ea2bdbdc-e7e8-40f9-9aac-1a615dfc035a")
+	)
+	(fp_line
+		(start 2.3622 -1.0922)
+		(end 2.3622 1.0922)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d754dba5-12eb-449a-bd59-ac6a05a52f6c")
+	)
+	(fp_line
+		(start 2.3622 1.0922)
+		(end -2.3622 1.0922)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ef8c5c88-078b-43aa-bdc2-0da5dd96f3ae")
+	)
+	(fp_line
+		(start -1.6 -0.4)
+		(end -1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "230d811e-1c5a-465d-8b38-be3468abeb17")
+	)
+	(fp_line
+		(start -1.6 0.8)
+		(end 1.6 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9e9745cd-eb8e-41a3-bc26-2fff4bd36ae5")
+	)
+	(fp_line
+		(start -1.2 -0.8)
+		(end -1.6 -0.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "edbfef96-a95f-40bf-b2e2-c4d0b0a2a608")
+	)
+	(fp_line
+		(start 1.6 -0.8)
+		(end -1.2 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "97cea3ba-7703-49be-936e-4b32028ccfc8")
+	)
+	(fp_line
+		(start 1.6 0.8)
+		(end 1.6 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ddc36346-f14d-4152-8953-da6932a2138f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "a47a2b74-6173-4762-8cd0-2fb88eeb27ff")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.12)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 2.1 2.1)
+		(drill 2.1)
+		(layers "*.Cu" "*.Mask")
+		(uuid "2c640446-f02a-4b79-b60d-93069a9841a4")
+	)
+	(pad "1" smd roundrect
+		(at -1.651 0)
+		(size 1 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(uuid "c3bd6c5f-d51a-43e5-b4ad-d6b0b14eae0b")
+	)
+	(pad "2" smd roundrect
+		(at 1.651 0)
+		(size 1 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.2)
+		(uuid "a32f3748-0918-4f26-9e39-5a8c88aca58c")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3d_models/Amicc-A-SP151W1D-C04-3A.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -180 0 0)
+		)
+	)
+)
