@@ -5,8 +5,8 @@
 	(uuid "6b110b20-dfc5-4bf0-aab4-8649f15b0eb0")
 	(paper "A4")
 	(title_block
-		(title "Magnetic Encoder RS485")
-		(date "2026-07-27")
+		(title "EncodeRS")
+		(date "2026-08-16")
 		(rev "1.0")
 	)
 	(lib_symbols
@@ -4892,7 +4892,7 @@
 			(uuid "59696922-2e46-4f7d-8f93-804467adfabb")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR01")
 					(unit 1)
@@ -4969,7 +4969,7 @@
 			(uuid "b418581e-4c97-4a64-a742-c15ee1aa2683")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "R8")
 					(unit 1)
@@ -5035,7 +5035,7 @@
 			(uuid "fc9e5c05-2faa-4432-b6be-5b32d401fef8")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR027")
 					(unit 1)
@@ -5118,7 +5118,7 @@
 			(uuid "3ef1959a-3cc6-4064-b60c-3dd1ecec2558")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "J2")
 					(unit 1)
@@ -5184,7 +5184,7 @@
 			(uuid "bc19673c-34ed-4a8e-be39-9f698669019b")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR011")
 					(unit 1)
@@ -5250,7 +5250,7 @@
 			(uuid "741e4c93-dddd-414b-b9da-1ca04cc177b8")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR025")
 					(unit 1)
@@ -5315,7 +5315,7 @@
 			(uuid "6be4d6e3-6d82-4cb0-ae74-f76abdc7b96e")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR040")
 					(unit 1)
@@ -5381,7 +5381,7 @@
 			(uuid "a08754e1-497b-49c8-86e3-1d41c74394ea")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR03")
 					(unit 1)
@@ -5447,7 +5447,7 @@
 			(uuid "b206356f-b3ca-4860-8d4f-7e88813058a9")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR022")
 					(unit 1)
@@ -5513,7 +5513,7 @@
 			(uuid "2eecef5c-5a29-4a5f-a6d8-1f08f89e622c")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR024")
 					(unit 1)
@@ -5579,7 +5579,7 @@
 			(uuid "9fbf1236-bb45-4b0a-a553-7f72f6ec88ba")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR041")
 					(unit 1)
@@ -5645,7 +5645,7 @@
 			(uuid "10bf5051-c65e-43e0-b6ce-0c87d3509fa0")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR08")
 					(unit 1)
@@ -5710,7 +5710,7 @@
 			(uuid "062ce02f-007f-40f3-aff3-c09d3032d3b4")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#FLG01")
 					(unit 1)
@@ -5790,7 +5790,7 @@
 			(uuid "74a832a7-35f7-456d-a19b-cfe3efb8f139")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C6")
 					(unit 1)
@@ -5867,7 +5867,7 @@
 			(uuid "2d2f33bd-3622-4ad1-901e-15e8347ce7c6")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "R4")
 					(unit 1)
@@ -5933,7 +5933,7 @@
 			(uuid "5be09901-cef9-45fb-98a1-8267d46dab08")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR042")
 					(unit 1)
@@ -5999,7 +5999,7 @@
 			(uuid "ed23b979-4b55-493c-8ba1-eb0eca614dc2")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR029")
 					(unit 1)
@@ -6078,7 +6078,7 @@
 			(uuid "41c9ce04-f921-4f13-bca0-55c61f3f4c3c")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C11")
 					(unit 1)
@@ -6144,7 +6144,7 @@
 			(uuid "ca10b9bf-977d-4c35-bd25-10b102a5c067")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR015")
 					(unit 1)
@@ -6209,7 +6209,7 @@
 			(uuid "7f6d5cc9-d8e8-4647-a9c7-6b2b6b42c241")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR026")
 					(unit 1)
@@ -6275,7 +6275,7 @@
 			(uuid "9633dfce-6df0-4c95-bb51-7cacaef47320")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR05")
 					(unit 1)
@@ -6355,7 +6355,7 @@
 			(uuid "c3830ff1-24fb-465a-ba32-46d7781c2c09")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C8")
 					(unit 1)
@@ -6434,7 +6434,7 @@
 			(uuid "fdaf44cc-ea18-4c19-99b3-307f50ca8697")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C3")
 					(unit 1)
@@ -6511,7 +6511,7 @@
 			(uuid "03dbb1e2-27c9-43ab-823a-70e78f7172ab")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "R6")
 					(unit 1)
@@ -6591,7 +6591,7 @@
 			(uuid "f6daab43-6291-467d-b90a-69194b3288f4")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C2")
 					(unit 1)
@@ -6656,7 +6656,7 @@
 			(uuid "61b13883-7f2f-4271-8a1d-206bb87bc576")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#FLG02")
 					(unit 1)
@@ -6722,7 +6722,7 @@
 			(uuid "4639b755-5205-4b72-9027-40ddf943086d")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR06")
 					(unit 1)
@@ -6788,7 +6788,7 @@
 			(uuid "3710a6b5-16d5-4e33-98a7-0c6c99819dd4")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR032")
 					(unit 1)
@@ -6870,7 +6870,7 @@
 			(uuid "a3330bec-a090-4f87-a3df-cfb3d0920f4b")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "J1")
 					(unit 1)
@@ -6952,7 +6952,7 @@
 			(uuid "f7c87f0c-3ec1-4089-8f6b-de0a46619b52")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "D1")
 					(unit 1)
@@ -7018,7 +7018,7 @@
 			(uuid "fc8ebe13-ef47-4742-a347-394c389ec4bf")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR035")
 					(unit 1)
@@ -7084,7 +7084,7 @@
 			(uuid "91122736-d754-4a28-931c-8b036c7914be")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR02")
 					(unit 1)
@@ -7150,7 +7150,7 @@
 			(uuid "a69a57ce-a16f-4e67-9bd7-17200bc6ef09")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR044")
 					(unit 1)
@@ -7227,7 +7227,7 @@
 			(uuid "b82a71c5-a087-4631-b060-c7117f20c9bf")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "R7")
 					(unit 1)
@@ -7293,7 +7293,7 @@
 			(uuid "b6ceb20a-2945-46b0-b86c-6138ff7a5f34")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR014")
 					(unit 1)
@@ -7359,7 +7359,7 @@
 			(uuid "e9886b26-6199-4307-9cde-f5d651bb836f")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR023")
 					(unit 1)
@@ -7493,7 +7493,7 @@
 			(uuid "1e7bac59-a355-4f9d-bd3e-5560a2f1c6dc")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "U1")
 					(unit 1)
@@ -7571,7 +7571,7 @@
 			(uuid "cf866f8d-88e0-4e79-ad70-6a4a9e10235c")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "R2")
 					(unit 1)
@@ -7637,7 +7637,7 @@
 			(uuid "ef7fb216-748a-436a-90ca-663e7b562035")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR038")
 					(unit 1)
@@ -7715,7 +7715,7 @@
 			(uuid "87e054d1-4ffe-4a57-ae77-326d102eaace")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C5")
 					(unit 1)
@@ -7793,7 +7793,7 @@
 			(uuid "40c8a4e2-75b8-484b-b7a3-93c267789a5e")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C7")
 					(unit 1)
@@ -7859,7 +7859,7 @@
 			(uuid "5e97bbe3-9eef-4974-85db-8e4b8b16c43f")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR039")
 					(unit 1)
@@ -7937,7 +7937,7 @@
 			(uuid "165089c9-4ec8-4ada-ac02-b9c5d18f4143")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C12")
 					(unit 1)
@@ -8015,7 +8015,7 @@
 			(uuid "824e3cd3-ced7-49a3-8491-13fed80f5583")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "D3")
 					(unit 1)
@@ -8094,7 +8094,7 @@
 			(uuid "9a8a54da-c4bc-4d70-a870-cc676790fccd")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C10")
 					(unit 1)
@@ -8196,7 +8196,7 @@
 			(uuid "a2294dfd-7503-4499-8801-a4f0161d78ec")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "Y1")
 					(unit 1)
@@ -8262,7 +8262,7 @@
 			(uuid "4a71d19c-72d0-41d4-941d-30e8603c44f1")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR04")
 					(unit 1)
@@ -8350,7 +8350,7 @@
 			(uuid "71791a6d-453e-4e22-9112-23c0caee2049")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "D2")
 					(unit 1)
@@ -8429,7 +8429,7 @@
 			(uuid "fc4b3d83-704f-416b-a580-2ed89a8656cd")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C9")
 					(unit 1)
@@ -8526,7 +8526,7 @@
 			(uuid "4790d9e4-3c03-4f24-92dc-c04002ce591c")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "U3")
 					(unit 1)
@@ -8591,7 +8591,7 @@
 			(uuid "0033ac1b-14b8-4996-926f-38989b35c0dc")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR034")
 					(unit 1)
@@ -8657,7 +8657,7 @@
 			(uuid "5c3866d9-e5d0-44a8-a498-e0f1e808c3bc")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR033")
 					(unit 1)
@@ -8753,7 +8753,7 @@
 			(uuid "7c83ec9f-d644-4db1-b3fb-65d5d86ff598")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "U2")
 					(unit 1)
@@ -8819,7 +8819,7 @@
 			(uuid "ee408de5-f724-4c13-a82c-ea952ecec240")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR031")
 					(unit 1)
@@ -8897,7 +8897,7 @@
 			(uuid "ff6f264a-0ad1-4cac-9654-faa12259b614")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C4")
 					(unit 1)
@@ -8963,7 +8963,7 @@
 			(uuid "35ceec61-3abe-4cd6-91f1-4aaa4282ad45")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR021")
 					(unit 1)
@@ -9029,7 +9029,7 @@
 			(uuid "2eb94514-7bd5-4eb8-8fd1-dc316d887c26")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR043")
 					(unit 1)
@@ -9095,7 +9095,7 @@
 			(uuid "446c4caf-f674-443f-931b-6e73de2a7243")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR017")
 					(unit 1)
@@ -9161,7 +9161,7 @@
 			(uuid "871d3afa-5cd2-4041-bd81-b71ca9706dec")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR012")
 					(unit 1)
@@ -9227,7 +9227,7 @@
 			(uuid "951cd0dd-facb-4479-933c-5974dd861a5b")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR036")
 					(unit 1)
@@ -9293,7 +9293,7 @@
 			(uuid "c3dddfdd-606c-46d7-86eb-b1a992454660")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR013")
 					(unit 1)
@@ -9359,7 +9359,7 @@
 			(uuid "5f81f933-fd15-4084-a013-1cd61615e9b1")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR019")
 					(unit 1)
@@ -9425,7 +9425,7 @@
 			(uuid "71183eda-a5a2-4f17-9f09-73e28642e9ee")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR010")
 					(unit 1)
@@ -9512,7 +9512,7 @@
 			(uuid "33de5138-79f7-4f92-927c-f012d1157f62")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "U4")
 					(unit 1)
@@ -9592,7 +9592,7 @@
 			(uuid "24810b44-083d-403a-96b6-dacd5646336c")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "C1")
 					(unit 1)
@@ -9672,7 +9672,7 @@
 			(uuid "a31eba69-6620-49f4-9620-bb6a010027e0")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "R1")
 					(unit 1)
@@ -9748,7 +9748,7 @@
 			(uuid "d23997aa-9a8e-400a-b2e3-a46e29b4b91d")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "R9")
 					(unit 1)
@@ -9814,7 +9814,7 @@
 			(uuid "d091d43a-b603-4fd1-b82e-6e39bacc2da5")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR07")
 					(unit 1)
@@ -9880,7 +9880,7 @@
 			(uuid "8800af6a-86e1-477a-829c-d5a8dc3d231a")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR016")
 					(unit 1)
@@ -9957,7 +9957,7 @@
 			(uuid "e375c92c-0c1d-478d-acb7-2ab43bc622e2")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "R5")
 					(unit 1)
@@ -10023,7 +10023,7 @@
 			(uuid "54d88680-8bfb-4062-b238-28125593bf52")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR09")
 					(unit 1)
@@ -10089,7 +10089,7 @@
 			(uuid "b5017c80-cd1a-4fc1-8953-53d4af885823")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR018")
 					(unit 1)
@@ -10155,7 +10155,7 @@
 			(uuid "bae2ffcc-9b7c-4dd9-94d1-db19c5b6da26")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR020")
 					(unit 1)
@@ -10220,7 +10220,7 @@
 			(uuid "78dba3d0-3892-4c50-860a-d9b1c99111a1")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR028")
 					(unit 1)
@@ -10285,7 +10285,7 @@
 			(uuid "7ff062ea-67a3-4a3f-9b82-0465a185740b")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR030")
 					(unit 1)
@@ -10351,7 +10351,7 @@
 			(uuid "f372b4d7-1730-47d7-a100-dafb7ea45e67")
 		)
 		(instances
-			(project "Magnetic-Encoder-RS485"
+			(project "EncoderRS"
 				(path "/6b110b20-dfc5-4bf0-aab4-8649f15b0eb0"
 					(reference "#PWR037")
 					(unit 1)

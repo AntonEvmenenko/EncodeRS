@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Magnetic-Encoder-RS485.kicad_pro",
+    "filename": "EncoderRS.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -504,7 +504,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "Magnetic-Encoder-RS485.step",
+      "step": "EncoderRS.step",
       "svg": "",
       "vrml": ""
     },
